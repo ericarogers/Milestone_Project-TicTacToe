@@ -8,7 +8,7 @@ represents an unoccupied position.
 
 # Intro to game & example for userability
 print ("-- Tic Tac Toe --\n")
-print ("Input the row, them column of the space you would like to take!
+print ("Input the row, them column of the space you would like to take!")
 print ("For example, type A1 to take the top left hand corner,\nor C3 to take the bottom right corner.")
 
 # Values for counts & storing taken grid positions
